@@ -1,3 +1,4 @@
+
 - name: Install Nginx on Pathnex server
   hosts: all
   become: yes
@@ -9,12 +10,12 @@
         state: present
 
 
-🔹 Docker
-# Docker Installation & First Container
+
+#Docker Installation and First Container
 docker --version
 docker run ubuntu echo "Hello Pathnex"
 
 
-# Docker File
+#Docker File
 FROM ubuntu:22.04
 CMD ["echo", "Hello Pathnex"]
