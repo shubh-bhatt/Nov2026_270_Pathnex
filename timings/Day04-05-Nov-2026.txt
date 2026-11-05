@@ -1,0 +1,5 @@
+morning class - linux commands
+linux commands practice and interview questions
+github day code script/code practice
+
+also studied the terraform script from chatgpt
