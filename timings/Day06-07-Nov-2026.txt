@@ -1,0 +1,10 @@
+today we learned:
+    aws
+    EC2
+    IAAS, PAAS, SAAS
+    policies, groups, users in aws
+    how to create policy
+
+self study:
+    week 1 - day 6 code practice
+    revise notes of aws
