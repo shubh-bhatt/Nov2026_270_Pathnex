@@ -1,0 +1,11 @@
+today's learning:
+    more concepts of AWS and it's services
+    self study of those concepts
+    revision of both aws live session on youtube
+
+code practice of day 7
+    Terraform
+    docker File
+    kubernetes
+    shell script
+    ansible
