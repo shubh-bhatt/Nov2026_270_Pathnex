@@ -1,0 +1,7 @@
+today's learning:
+    security_groups
+    guardduty
+    WAF and Shield
+
+code practice of day 8
+    jenkins and other
