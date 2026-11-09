@@ -1,0 +1,17 @@
+today we learned:
+    remainig topic of aws
+    kms
+    ssm
+    rds
+    aurora
+    dynamodb
+    redshift
+    dms
+    batch 
+    glue
+    efs
+    etc
+
+self study:
+    week 2 - day 9 code practice
+    revise notes of aws
