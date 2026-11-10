@@ -1,0 +1,6 @@
+today we learned:
+    docker
+
+self study:
+    week 2 - day 10 code practice
+    docker practice
