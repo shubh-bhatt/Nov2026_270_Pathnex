@@ -1,0 +1,6 @@
+today we learned:
+    kubernetes
+
+self study:
+    week 2 - day 13 code practice
+    revised kubernetes from youtube
