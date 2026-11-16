@@ -1,0 +1,6 @@
+today we learned:
+    Helm charts, values.yaml, and helpers.tpl file
+
+self study:
+    week 3 - day 16 code practice
+    revised kubernetes and Helm from youtube
