@@ -1,0 +1,6 @@
+today we learned:
+    kubernetes cluster management, including node operations, networking, and health probes
+
+self study:
+    week 3 - day 15 code practice
+    revised kubernetes from youtube
