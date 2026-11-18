@@ -1,0 +1,6 @@
+today we learned:
+    Terraform, IaC, provider configurations, state management, and real-world deployment strategies
+
+self study:
+    week 3 - day 18 code practice
+    revised terraform from youtube
