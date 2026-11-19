@@ -1,0 +1,7 @@
+today we learned:
+    ArgoCD, troubleshooting, cluster management, and GitOps deployment with ArgoCD for career-ready DevOps skills
+
+
+self study:
+    week 3 - day 17 code practice
+    revised argocd from youtube
