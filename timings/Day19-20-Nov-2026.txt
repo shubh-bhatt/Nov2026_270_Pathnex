@@ -1,0 +1,6 @@
+today we learned:
+IaC, AWS state management, remote backends, and command-line
+
+self study:
+    week 3 - day 19 code practice
+    revised argocd from youtube
