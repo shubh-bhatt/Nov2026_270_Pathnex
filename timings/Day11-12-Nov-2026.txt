@@ -1,0 +1,6 @@
+today we learned:
+    kubernetes basics (mostly the k8s architecture)
+
+self study:
+    week 2 - day 11 code practice
+    kubernetes oct batch video revision
