@@ -1,0 +1,6 @@
+today we learned:
+    ansible, infrastructure automation, configuration management, and troubleshooting
+
+self study:
+    week 3 - day 20 code practice
+    revised ansible from youtube
