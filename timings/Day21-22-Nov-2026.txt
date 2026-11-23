@@ -1,0 +1,6 @@
+today we learned:
+    New Relic for monitoring and observability.
+
+self study:
+    week 3 - day 21 code practice
+    revised ansible from youtube
